@@ -11,6 +11,9 @@ A Streamlit application for fetching, analyzing, and visualizing data from multi
 - **Rich Visualizations**: Analyze video performance with interactive charts and graphs
 - **Export Options**: Download results as CSV or copy all URLs
 
+[demo.webm](https://github.com/user-attachments/assets/05f164c2-d73d-4d81-94df-b67c3b6dbbb7)
+
+
 ## How It Works
 
 ```mermaid

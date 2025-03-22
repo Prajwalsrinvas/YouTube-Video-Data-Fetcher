@@ -1,4 +1,4 @@
-# YouTube Video Data Fetcher
+# YouTube Video Data Fetcher 🎬
 
 A Streamlit application for fetching, analyzing, and visualizing data from multiple YouTube videos.
 
@@ -15,6 +15,12 @@ A Streamlit application for fetching, analyzing, and visualizing data from multi
 
 [demo.webm](https://github.com/user-attachments/assets/05f164c2-d73d-4d81-94df-b67c3b6dbbb7)
 
+## Why This App Was Built
+
+• I often browse YouTube and save URLs to watch later  
+• I typically open them in a browser and use an extension like "Copy All URLs" to gather them  
+• Previously, I stored these links in a text file with limited organization options  
+• This tool transforms my plain URL lists into an organized dashboard with video data  
 
 ## How It Works
 
